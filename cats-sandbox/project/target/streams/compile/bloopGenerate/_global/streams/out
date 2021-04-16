@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[cats-sandbox-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[cats-sandbox-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'cats-sandbox-build' to '/home/merlinwebster/learning/scala-with-cats/cats-sandbox/project/.bloop/cats-sandbox-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/cats-sandbox-build.json[0m
